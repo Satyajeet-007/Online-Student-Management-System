@@ -18,7 +18,7 @@
 1. See the Overall Summary Charts related to their students, their subjects, leave status, etc.
 2. Take/Update Students Attendance
 3. Add/Update Result
-4. Apply for Leave
+4. Apply for Leave.
 5. Send Feedback to HOD
 
 ### C. Students Can
