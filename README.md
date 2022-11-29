@@ -6,7 +6,7 @@ Feel free to make changes based on your requirements.
 
 I've created this project while learnging Django and followed tutorial series from **SuperCoders**
 
-And if you like this project then ADD a STAR ⭐️  to this project 👆
+
 
 ## Features of this Project
 
